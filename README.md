@@ -1,4 +1,4 @@
-# 🛡️ Phishing URL Detection System
+# 🛡️ Suspicious or Phishing URL Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org)
