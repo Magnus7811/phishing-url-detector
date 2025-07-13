@@ -77,14 +77,14 @@ phishing-url-detector/
 │   └── (sample datasets)
 ├── templates/
 │   └── (HTML templates)
-├── phishing_detection_model.pkl    # Trained ML model
-├── feature_scaler.pkl              # Feature scaling object
+├── README.md                       # Project documentation
 ├── feature_names.pkl               # Feature names list
+├── feature_scaler.pkl              # Feature scaling object
 ├── model_metadata.pkl              # Model information
 ├── phishing-url-detector.zip       # Complete model package
-├── phishing_detection_model.py     # Main training script
+├── phishing_detection_model.pkl    # Trained ML model
 ├── requirements.txt                # Python dependencies
-└── README.md                       # This file
+└── suspicious_url_detector.py      # Main training
 ```
 
 ## 🧠 How It Works
